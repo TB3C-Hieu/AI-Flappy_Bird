@@ -1,4 +1,4 @@
-# AI-Flappy_Bird with Python
+# Project AI-Flappy_Bird with Python
 
 An AI implementation to play Flappy Bird
 
@@ -51,7 +51,7 @@ You will need the following packages installed to get this project running:
       Total extinctions: 0
       Generation time: 2.568 sec
 ## Example
-[Video Ex]()
+[Video Ex](https://youtu.be/A9W9nLX1rBg)
 ## Contributors
 
 - Nguyễn Trần Hoàng Hiếu 18520054
